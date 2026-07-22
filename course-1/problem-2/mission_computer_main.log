@@ -1,0 +1,14 @@
+2026-07-21 14:00:01, [INFO] Mission Computer initializing...
+2026-07-21 14:00:05, [INFO] Navigation array online.
+2026-07-21 14:00:08, [INFO] Communication array online.
+2026-07-21 14:00:15, [INFO] Entering stable exploration mode.
+2026-07-21 14:05:00, [INFO] Nominal data transmission to Earth base.
+2026-07-21 14:12:33, [WARNING] Voltage spike detected in Solar Panel B.
+2026-07-21 14:12:35, [INFO] Engaging surge protection sequence.
+2026-07-21 14:15:10, [ERROR] Primary coolant pump RPM dropping unexpectedly.
+2026-07-21 14:15:45, [WARNING] Core temperature rising. Current: 65C, Threshold: 85C.
+2026-07-21 14:16:02, [ERROR] Secondary coolant pump failed to engage.
+2026-07-21 14:16:30, [WARNING] Core temperature critical. Current: 88C.
+2026-07-21 14:16:35, [CRITICAL] THERMAL LIMIT EXCEEDED (95C). Initiating emergency auto-shutdown.
+2026-07-21 14:16:36, [INFO] Saving system state to NVRAM...
+2026-07-21 14:16:38, [CRITICAL] SYSTEM HALT.
